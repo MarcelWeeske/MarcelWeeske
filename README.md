@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 I am a Software developer with mechatronics engineering background. Working Experience with Typescript, C#, Python, NodeJS, GraphQL, Docker, Matlab.
 
-I am currently LEarning about AI and Blockchain Technology, if you have interesting projects to collaborate on, please let me know ! 
+I am currently Learning about AI and Blockchain Technology, if you have interesting projects to collaborate on, please let me know ! 
 
